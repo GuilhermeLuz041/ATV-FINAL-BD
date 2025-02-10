@@ -1,9 +1,9 @@
 INSERT INTO livro (id, titulo, autor, anoPublicacao, categoria, disponivel) VALUES
-('1''Dom Quixote', 'Miguel de Cervantes', 1605, 'Clássico', true),
-('2','1984', 'George Orwell', 1949, 'Ficção Científica', true),
-('3','O Senhor dos Anéis', 'J.R.R. Tolkien', 1954, 'Fantasia', false),
-('4','Cem Anos de Solidão', 'Gabriel García Márquez', 1967, 'Realismo Mágico', true),
-('5','A Revolução dos Bichos', 'George Orwell', 1945, 'Sátira', true);
+(1, 'Dom Quixote', 'Miguel de Cervantes', 1605, 'Clássico', true),
+(2, '1984', 'George Orwell', 1949, 'Ficção Científica', true),
+(3, 'O Senhor dos Anéis', 'J.R.R. Tolkien', 1954, 'Fantasia', false),
+(4, 'Cem Anos de Solidão', 'Gabriel García Márquez', 1967, 'Realismo Mágico', true),
+(5, 'A Revolução dos Bichos', 'George Orwell', 1945, 'Sátira', true);
 
 INSERT INTO membro (nome, email, telefone, endereco, cpf) VALUES
 ('João Silva', 'joao.silva@example.com', '(11) 98765-4321', 'Rua das Flores, 123', '123.456.789-01'),
