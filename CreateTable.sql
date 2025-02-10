@@ -1,13 +1,3 @@
-CREATE TABLE livro (
-    id INT AUTO_INCREMENT PRIMARY KEY,
-    titulo VARCHAR(255) NOT NULL,
-    autor VARCHAR(255) NOT NULL,
-    anoPublicacao INT NOT NULL,
-    categoria VARCHAR(100) NOT NULL,
-    disponivel BOOLEAN NOT NULL
-);
-
-
 CREATE TABLE membro (
     id INT AUTO_INCREMENT PRIMARY KEY,
     nome VARCHAR(255) NOT NULL,
@@ -15,6 +5,15 @@ CREATE TABLE membro (
     telefone VARCHAR(20) NOT NULL,
     endereco TEXT NOT NULL,
     cpf VARCHAR(14) NOT NULL UNIQUE
+);
+
+CREATE TABLE livro (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    titulo VARCHAR(255) NOT NULL,
+    autor VARCHAR(255) NOT NULL,
+    anoPublicacao INT NOT NULL,
+    categoria VARCHAR(100) NOT NULL,
+    disponivel BOOLEAN NOT NULL
 );
 
 CREATE TABLE emprestimo (
