@@ -1,0 +1,41 @@
+commit
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   CreateTable.sql
+#	new file:   PovoamentoTable.sql
+#	new file:   pom.xml
+#	new file:   src/main/java/ConexaoMySQL.class
+#	new file:   src/main/java/ConexaoMySQL.java
+#	new file:   src/main/java/dao/EmprestimoDAO.class
+#	new file:   src/main/java/dao/EmprestimoDAO.java
+#	new file:   src/main/java/dao/LivroDAO.class
+#	new file:   src/main/java/dao/LivroDAO.java
+#	new file:   src/main/java/dao/MembroDAO.class
+#	new file:   src/main/java/dao/MembroDAO.java
+#	new file:   src/main/java/dao/ReservaDAO.class
+#	new file:   src/main/java/dao/ReservaDAO.java
+#	new file:   src/main/java/models/Emprestimo.java
+#	new file:   src/main/java/models/Livro.class
+#	new file:   src/main/java/models/Livro.java
+#	new file:   src/main/java/models/Membro.java
+#	new file:   src/main/java/models/Reserva.java
+#	new file:   src/main/java/mysql-connector-j-9.2.0.jar
+#	new file:   src/test/java/com/exemplo/AppTest.java
+#	new file:   target/classes/ConexaoMySQL.class
+#	new file:   target/classes/dao/EmprestimoDAO.class
+#	new file:   target/classes/dao/LivroDAO.class
+#	new file:   target/classes/dao/MembroDAO.class
+#	new file:   target/classes/dao/ReservaDAO.class
+#	new file:   target/classes/models/Emprestimo.class
+#	new file:   target/classes/models/Livro.class
+#	new file:   target/classes/models/Membro.class
+#	new file:   target/classes/models/Reserva.class
+#	new file:   target/classes/mysql-connector-j-9.2.0.jar
+#	new file:   target/test-classes/com/exemplo/AppTest.class
+#
